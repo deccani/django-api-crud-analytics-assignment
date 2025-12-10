@@ -8,10 +8,10 @@ The site is hosted on a free service renderer.com It would take a minute or two 
 👉 **https://django-api-crud-analytics.onrender.com**
 
 ---
-![home.JPG](attachment:home.JPG)
-![crud.JPG](attachment:crud.JPG)
-![api.JPG](attachment:api.JPG)
-![analytics.JPG](attachment:analytics.JPG)
+![Home](home.JPG)
+![CRUD](crud.JPG)
+![API](api.JPG)
+![Analytics](analytics.JPG)
 
 ### ✔ Prerequisites
 📌 Install the following:
