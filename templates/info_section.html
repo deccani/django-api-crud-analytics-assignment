@@ -1,0 +1,12 @@
+<div class="mt-5 p-3 border rounded bg-light">
+    <h5>How This Works</h5>
+    <p>{{ explanation }}</p>
+
+    {% if steps %}
+    <ul>
+        {% for step in steps %}
+        <li>{{ step }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</div>
